@@ -49,7 +49,7 @@
 
 ###
 
-<h2 align="left">Tinks to me</h2>
+<h2 align="left">Links to me</h2>
 
 ###
 

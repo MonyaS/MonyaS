@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Monya and I'm a Python back-end developer</p>
+<p align="left">My name is Mikhail and I'm a Python back-end developer</p>
 
 ###
 
